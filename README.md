@@ -13,3 +13,9 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 - [10_minutes_to_pandas.ipynb](http://localhost:8888/notebooks/10_minutes_to_pandas.ipynb)
 - [youtube_pandas_tutorial.ipynb](http://localhost:8888/notebooks/youtube_pandas_tutorial.ipynb)
 - [sinhrks_pandas_tutorial.ipynb](http://localhost:8888/notebooks/sinhrks_pandas_tutorial.ipynb)
+
+## Pandas Cheat Sheet
+
+- [CheatSheet: Data Exploration using Pandas in Python](https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/)
+- [Cheat Sheet: The pandas DataFrame Object](http://www.webpages.uidaho.edu/~stevel/504/Pandas%20DataFrame%20Notes.pdf)
+
