@@ -10,9 +10,9 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 ## Pandasチュートリアル
 
 - [open_data.ipynb](https://github.com/PyDataOkinawa/meetup018/blob/master/open_data.ipynb)
-- [10_minutes_to_pandas.ipynb](http://localhost:8888/notebooks/10_minutes_to_pandas.ipynb)
-- [youtube_pandas_tutorial.ipynb](http://localhost:8888/notebooks/youtube_pandas_tutorial.ipynb)
-- [sinhrks_pandas_tutorial.ipynb](http://localhost:8888/notebooks/sinhrks_pandas_tutorial.ipynb)
+- [10_minutes_to_pandas.ipynb](https://github.com/PyDataOkinawa/meetup018/blob/master/10_minutes_to_pandas.ipynb)
+- [youtube_pandas_tutorial.ipynb](https://github.com/PyDataOkinawa/meetup018/blob/master/youtube_pandas_tutorial.ipynb)
+- [sinhrks_pandas_tutorial.ipynb](https://github.com/PyDataOkinawa/meetup018/blob/master/sinhrks_pandas_tutorial.ipynb)
 
 ## Pandas Cheat Sheet
 
